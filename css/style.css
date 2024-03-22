@@ -150,7 +150,6 @@ img {
 
     .container, .steps, .why-us, .site-header{
         width: 600px;
-        display: flex;
         justify-content: center;
     }
 }
