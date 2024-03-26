@@ -130,7 +130,7 @@ img {
 /* Tablet */
  @media screen and (max-width: 1140px) {
 
-    .steps, .why-us, .site-header{
+    .container, .steps, .why-us, .site-header{
         width: 100%;
     }
 
