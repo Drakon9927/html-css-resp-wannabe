@@ -128,12 +128,10 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 /* Tablet */
- @media screen and (max-width: 768px) {
+ @media screen and (max-width: 1140px) {
 
     .steps, .why-us, .site-header{
-        width: 1240px;
-        display: flex;
-        justify-content: center;
+        width: 100%;
     }
 
 }
@@ -146,10 +144,5 @@ img {
         display: flex;
         flex-direction: column;
         align-items: center;
-    }
-
-    .container, .steps, .why-us, .site-header{
-        width: 600px;
-        justify-content: center;
     }
 }
